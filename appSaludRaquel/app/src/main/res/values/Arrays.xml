@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Emergencias_LLamar">
+        <item>Cruz Roja
+            Telefonos: 2572-2582/22652084
+            /22652082 /22651419
+            Direccion:Reparto Belmonte
+            Km 7 Carrretera Sur, Managua Nicaragua
+        </item>
+        <item>Bomberos:
+            Dirección General
+      115
+  Para Celulares
+      *911
+  Mercado Roberto Huembes
+      2270-4443
+  Mercado Ivan Montenegro
+      2280-0016
+  Centro Civico
+      2254-4566
+  Ciudad Sandino
+      2269-9654
+  Carretera Norte
+      2249-2218
+  Benemerito - Emergencias
+      120
+  Benemerito - Oficinas
+      2228-1079  /  2228-1080
+
+        </item>
+        <item>Policias:
+            Telefonos Categorias:118 Emergencias,
+            22514744-22594119 Comisaria,227-00244 Internos,
+
+        </item>
+        <item>Defensa Civil:
+            Teléfonos: 2280-9915 / 2280-9916 / 2280-9925 / 2280-9926.,
+            Claro: 8408-2031. Movistar: 8590-5756,
+            Fax: 22774681.,
+            Correo electrónico: code-defensacivil@ibm.com.ni,
+            Dirección: De la rotonda Hugo Chávez, 1 cuadra al norte. Edificio SINAPRED.
+        </item>
+        <item>Ineter:
+            Teléfono: 2492757 – 2492759,
+            Dirección:Frente a Hospital Solidaridad,
+            Av. Xolotlán, Managua 2110
+        </item>
+        <item>Hospitales:
+            Hospital Militar 2222-2763,
+           Hospital Alemán Nicaragüense
+            2249-7526  /  2249-0611,
+           Hospital Berta Calderón
+            2265-0615  /  2260-1303,
+            Hospital Carlos Roberto Huembes
+             2265-0512  /  2265-0615,
+            Hospital La Mascota
+             2289-7701  /  2289-7702,
+            Hospital Lenín Fonseca
+             2266-6547  /  2266-6549,
+            Hospital Roberto Calderón
+             2277-0991  /  2277-0993,
+            Hospital Monte España
+            2278-3920  /  2278-3921,
+            Hospital Salud Integral Montoya
+            2266-1707,
+            Hospital Salud Integral Bolonia
+             2266-5190  /  2266-1163,
+            Hospital Siquiátrico
+             2266-7881
+
+        </item>
+
+    </string-array>
+
+</resources>
